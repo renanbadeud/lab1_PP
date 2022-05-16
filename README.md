@@ -3,6 +3,8 @@ Laboratório I – Paralelismo de Processos e Threads
 
 Instruções:
 
+Leia o relatório: arquivo lab1_pp.pdf
+
 Compile o código: gcc -pthread -o test mergesort.c
 
 Rode o código: time ./test n k max
